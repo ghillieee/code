@@ -1,7 +1,7 @@
 # Teleport Menu
 This is an old menu I got and edited to make a simple menu for teleport options. I was suppost to relese this around a month ago but I forgot.
 
-[![N|Solid](https://i.gyazo.com/8d6087d72268cf1aebe5c8fec2218769.png)]()
+[![N|Solid]()]()
 
 How to install:
 1. Download and ensure the compatible RageUI version. You can download the needed one [here](https://github.com/ghillieee/code/FiveM%20Files/RageUI)
