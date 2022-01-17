@@ -8,6 +8,7 @@ A drag and drop configurable bus job for dunko_vrp framework
 
 # Notes
 * This script was originally made by jud#0001 but I just edited it to work as a bus job. His server > [discord.gg/rebeldm](https://discord.gg/rebeldm)
+* If you would like to join my discord server you can [here](https://discord.com/StSa3jDMT9)
 
 # Images
 [![N|Solid](https://media.discordapp.net/attachments/803662178338734083/932572340829687829/unknown.png?width=841&height=473)]()
