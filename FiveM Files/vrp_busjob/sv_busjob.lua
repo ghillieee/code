@@ -7,6 +7,6 @@ RegisterNetEvent("BusJob:Paycheck")
 AddEventHandler("BusJob:Paycheck", function()
     local source = source
     local user_id = vRP.getUserId({source})
-    vRP.giveBankMoney({user_id, 1250})
+    vRP.giveMoney({user_id, 1250})
     vRPclient.notifyPicture(source, {"busjob",9,"Bus Job",false,"You have been paid £1250"})
 end)
